@@ -39,7 +39,7 @@
 
 ### **Machine Learning**
 * **Frameworks:** Scikit-learn, Pandas, NumPy.
-* **Model:** Linear Support Vector Machine (LinearSVC).
+* **Model:** Linear Support Vector Machine (LinearSVC), Logistic Regression and Naive Bayes
 * **Serialization:** Joblib for efficient model loading.
 
 ---
